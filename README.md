@@ -15,7 +15,7 @@ Enjoy criminal life!
 
 ## How to get arrested
 
-It's easy. Fork this project and branch it as gh-pages. It's all done. It would be more effective to share the url "http://youraccount.github.io/lets-get-arrested" in a SNS.
+It's easy. Fork this project and branch it as gh-pages. It's all done. It would be more effective to share the url "http://wraikny.github.io/lets-get-arrested" in a SNS.
 
 ## Not arrested?
 
